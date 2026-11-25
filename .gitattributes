@@ -1,0 +1,2 @@
+# Sin conversión de fin de línea: los checksums dependen de los bytes exactos
+*.csv -text
